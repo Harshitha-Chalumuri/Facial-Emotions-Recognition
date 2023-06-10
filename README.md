@@ -13,5 +13,5 @@ There are two directories. The images directory contains raw images. These are u
 
 This file also has a user ID field. Please use something unique. It is primarily for tracking which students added which files. The IDs can be used for a secondary analysis to determine whether there are any patterns to the submissions.
 
-**#Emotions**
+**Emotions**
 The set of emoions used are TBD
